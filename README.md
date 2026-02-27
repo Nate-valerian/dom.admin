@@ -4,16 +4,16 @@ A modern, bilingual (English/Russian) admin dashboard for managing users, produc
 
 ✨ Features
 Feature,Description
-🌐 Bilingual UI,Full English & Russian language support with toggle
-💰 Ruble Currency,All prices displayed in ₽ (RUB)
-🖼️ Image Upload,Upload product images via file or URL (base64)
-👥 User Management,"Create, edit, activate/deactivate users with roles"
-🛍️ Marketplace,Manage products with EN/RU titles & descriptions
-📅 Events,Schedule and manage events with capacity tracking
-💬 Groups,Create groups and manage member membership
-🧠 User Memory,Search and manage semantic memory entries
-🔐 Authentication,Token-based login with session persistence
-🎨 Elegant Design,"Dark sidebar, warm color palette, responsive layout"
+🌐 Bilingual UI,Full English & Russian language support with toggle.
+💰 Ruble Currency,All prices displayed in ₽ (RUB).
+🖼️ Image Upload,Upload product images via file or URL (base64).
+👥 User Management,"Create, edit, activate/deactivate users with roles".
+🛍️ Marketplace,Manage products with EN/RU titles & descriptions.
+📅 Events,Schedule and manage events with capacity tracking.
+💬 Groups,Create groups and manage member membership.
+🧠 User Memory,Search and manage semantic memory entries.
+🔐 Authentication,Token-based login with session persistence.
+🎨 Elegant Design,"Dark sidebar, warm color palette, responsive layout".
 
 🛠️ Tech Stack
 
