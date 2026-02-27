@@ -27,5 +27,21 @@ Token-based login with session persistence
 Dark sidebar, warm color palette, responsive layout
 
 🛠️ Tech Stack
+Layer
+Technology
+Frontend
+React 18+
+Build Tool
+Vite (recommended) or Create React App
+Styling
+Inline CSS-in-JS (no external CSS files)
+Fonts
+Playfair Display, DM Sans (Google Fonts)
+API
+RESTful JSON API
+State
+React Hooks (useState, useEffect)
+Storage
+sessionStorage (tokens), localStorage (language)
 
 
