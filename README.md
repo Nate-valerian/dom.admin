@@ -3,7 +3,6 @@ A modern, bilingual (English/Russian) admin dashboard for managing users, produc
 
 
 ✨ Features
-[table-1f5da753-62f9-403f-be15-c4823c8426b3.csv](https://github.com/user-attachments/files/25612220/table-1f5da753-62f9-403f-be15-c4823c8426b3.csv)
 Feature,Description
 🌐 Bilingual UI,Full English & Russian language support with toggle
 💰 Ruble Currency,All prices displayed in ₽ (RUB)
@@ -17,7 +16,7 @@ Feature,Description
 🎨 Elegant Design,"Dark sidebar, warm color palette, responsive layout"
 
 🛠️ Tech Stack
-[table-1f5da753-62f9-403f-be15-c4823c8426b3 (1).csv](https://github.com/user-attachments/files/25612235/table-1f5da753-62f9-403f-be15-c4823c8426b3.1.csv)
+
 Layer,Technology
 Frontend,React 18+
 Build Tool,Vite (recommended) or Create React App
